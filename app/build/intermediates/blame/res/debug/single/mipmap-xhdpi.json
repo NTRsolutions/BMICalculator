@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\WorkSpace\\BMICalculator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\WorkSpace\\BMICalculator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\BMICalculator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\launcherbmi.png",
+        "source": "E:\\WorkSpace\\BMICalculator\\app\\src\\main\\res\\mipmap-xhdpi\\launcherbmi.png"
+    }
+]

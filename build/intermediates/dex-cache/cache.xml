@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_a1bf79fcbfb4ecbaf7d255f24eae24ec9552b469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_a9eea70f8bfaaf9aaa0875fa6230c39c54288e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_152a6af651d47e0462ca7513194ea3e35ea75261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce24df4838b8e8f8aa54b0e7f475949d822996cc">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5a60ddd505c6e90950cefe80b12933aa3daaccbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_76de092075f50146833a79787e2c9249ed1f97ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_1a9f3673b7f04a6dbfdecdb804dd67ac08fb7237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_00185fa5aa13bd9989d22ce71f5e88f5ea665412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_9aa715f8328ef00d1b9fe467c8162fe662cbc6c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6fe1b3adb6ac08e7dce2acb9d9f175b39b0b8987">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5a60ddd505c6e90950cefe80b12933aa3daaccbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_f53df8488b3584484733667c6377f9cfe4a66bd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_e24c83cb594b0d564d62e5f05362f2fcd99144d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="299ade846ad113c27310b17c55f62e4cf6ac5b04">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_24d48457fc6d3bad2712084dc70d0aeace19c823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_865a4a12ff936bdf3e7565a1ced8746f189b1dc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_3b97ffe5e84ccb85fd7086e25745fa04d425bac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8c010787366960600f40b79f581406ce1a7c5c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_3a95505ab23b35828637ad684feb53b8982c9cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_afef5697bc716dd4d9d68c4b574e58b6d3e0b326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_5c4a608b209ee89cd6edb0f2290b9b1b2bff34e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_7cd36ac61d05f168fc6bddbe7f30314b534c03dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_8e5ea2dd6824aa6f1e18a32a789760197667a11c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_df0b6f0a80d972bde4c42c30113ad2ac8d15e8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_1480cff94d88db12b2d4ab20e4f47c83a319cb90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_b01bdbd77b41927ad7eb56b3fdc39eaecfb92e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSpace\BMICalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="62a5fa82dfd8bfe80acc42503ae83dffcbef0bb4">
+        <dex dex="E:\WorkSpace\BMICalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_24d48457fc6d3bad2712084dc70d0aeace19c823\classes.dex" />
+    </item>
+
+</items>

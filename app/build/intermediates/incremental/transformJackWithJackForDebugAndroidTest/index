@@ -1,0 +1,9 @@
+f:prebuilt/com/appinventory/bmicalculator/bmicalculator/test/BuildConfig.dex
+f:prebuilt/com/appinventory/bmicalculator/bmicalculator/ApplicationTest.dex
+f:prebuilt/digest
+f:meta/libraries.dep
+f:meta/types.dep
+f:meta/files.dep
+f:jack.properties
+f:jayce/com/appinventory/bmicalculator/bmicalculator/test/BuildConfig.jayce
+f:jayce/com/appinventory/bmicalculator/bmicalculator/ApplicationTest.jayce

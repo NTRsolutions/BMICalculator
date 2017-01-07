@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="custom_ad_unit_id">ca-app-pub-9879295456241149/4995628717</string>
+
+
+    <string-array name="height_array">
+        <item>m</item>
+        <item>cm</item>
+        <item>inch</item>
+    </string-array>
+
+    <string-array name="weight_array">
+        <item>Lb </item>
+        <item>Kg </item>
+    </string-array>
+</resources>

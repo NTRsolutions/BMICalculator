@@ -1,0 +1,4 @@
+#Sat Jan 07 15:44:52 EET 2017
+base.0=E\:\\WorkSpace\\BMICalculator\\app\\build\\intermediates\\transforms\\jack\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\WorkSpace\\BMICalculator\\app\\build\\intermediates\\transforms\\jack\\debug\\folders\\1000\\1f\\main\\classes.dex
